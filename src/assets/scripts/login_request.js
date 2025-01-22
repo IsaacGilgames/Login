@@ -40,10 +40,12 @@ export function login_request(setUser){
             localStorage.setItem("user", JSON.stringify(data));
             // Beállítjuk a state-et, hogy az alkalmazás tudja, hogy a felhasználó be van jelentkezve
             setUser(data);  // Itt setUser egy setter függvény, amit props-on keresztül kapunk
+            window.location.href = window.location.href;
         }) 
         .catch((error) => {
             console.error("Hiba történt:", error);
-            alert("Server hiba. Kérlek próbált meg később!");
+            alert("Server hiba. Kérlek próbáld meg később!");
+            
         });
     }
 }

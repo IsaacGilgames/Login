@@ -14,8 +14,11 @@ function Login(){
 
 
     function log_in(event){
+        login_request(setUser)
         event.preventDefault();
-        login_request(setUser);
+        
+        
+        
     }
 
 

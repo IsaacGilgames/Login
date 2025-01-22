@@ -6,7 +6,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import React, { useState, useEffect } from 'react';  
 
 function App() {
-  window.onload = () => localStorage.removeItem('user')
+  //window.onload = () => localStorage.removeItem('user')
   const [user, setUser] = useState(null);
 
   useEffect(() => {
