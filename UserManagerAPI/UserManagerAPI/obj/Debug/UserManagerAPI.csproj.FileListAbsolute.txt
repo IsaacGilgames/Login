@@ -1,0 +1,405 @@
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\UserManagerAPI.dll.config
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\UserManagerAPI.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\UserManagerAPI.pdb
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\csc.exe
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\csc.exe.config
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\csc.rsp
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\csi.exe
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\csi.exe.config
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\csi.rsp
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.AppContext.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Console.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Globalization.Calendars.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.Compression.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Net.Http.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Net.Sockets.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.ValueTuple.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.XPath.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\vbc.exe
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\vbc.exe.config
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\vbc.rsp
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\VBCSCompiler.exe
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\BouncyCastle.Crypto.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\EntityFramework.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\EntityFramework.SqlServer.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Google.Protobuf.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.Streams.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\K4os.Hash.xxHash.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\MySql.Data.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\MySql.Data.EntityFramework.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Newtonsoft.Json.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Renci.SshNet.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Swashbuckle.Core.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Buffers.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Memory.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Net.Http.Formatting.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Numerics.Vectors.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.WebHost.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Ubiety.Dns.Core.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\WebActivatorEx.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Zstandard.Net.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\EntityFramework.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\EntityFramework.SqlServer.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Google.Protobuf.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.Streams.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\K4os.Hash.xxHash.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\MySql.Data.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\MySql.Data.EntityFramework.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Renci.SshNet.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Buffers.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Memory.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Numerics.Vectors.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Newtonsoft.Json.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Net.Http.Formatting.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.WebHost.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.csproj.AssemblyReference.cache
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.csproj.CoreCompileInputs.cache
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.csproj.CopyComplete
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.dll
+E:\BackendgyakE\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.pdb
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\UserManagerAPI.dll.config
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\UserManagerAPI.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\UserManagerAPI.pdb
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\csc.exe
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\csc.exe.config
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\csc.rsp
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\csi.exe
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\csi.exe.config
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\csi.rsp
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.AppContext.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Console.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Globalization.Calendars.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.Compression.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Net.Http.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Net.Sockets.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.ValueTuple.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.XPath.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\vbc.exe
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\vbc.exe.config
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\vbc.rsp
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\VBCSCompiler.exe
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\BouncyCastle.Crypto.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\EntityFramework.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\EntityFramework.SqlServer.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Google.Protobuf.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.Streams.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\K4os.Hash.xxHash.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\MySql.Data.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\MySql.Data.EntityFramework.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Newtonsoft.Json.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Renci.SshNet.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Swashbuckle.Core.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Buffers.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Memory.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Net.Http.Formatting.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Numerics.Vectors.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.WebHost.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Ubiety.Dns.Core.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\WebActivatorEx.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Zstandard.Net.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\EntityFramework.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\EntityFramework.SqlServer.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Google.Protobuf.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.Streams.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\K4os.Hash.xxHash.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\MySql.Data.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\MySql.Data.EntityFramework.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Renci.SshNet.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Buffers.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Memory.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Numerics.Vectors.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Newtonsoft.Json.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Net.Http.Formatting.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.WebHost.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.csproj.AssemblyReference.cache
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.csproj.CoreCompileInputs.cache
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.csproj.CopyComplete
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.dll
+D:\BackendgyakE\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.pdb
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.csproj.AssemblyReference.cache
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.csproj.CoreCompileInputs.cache
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.pdb
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\UserManagerAPI.dll.config
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\UserManagerAPI.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\UserManagerAPI.pdb
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\csc.exe
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\csc.exe.config
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\csc.rsp
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\csi.exe
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\csi.exe.config
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\csi.rsp
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.AppContext.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Console.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Globalization.Calendars.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.Compression.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.FileSystem.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Net.Http.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Net.Sockets.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.ValueTuple.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.XPath.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\vbc.exe
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\vbc.exe.config
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\vbc.rsp
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\VBCSCompiler.exe
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\BouncyCastle.Crypto.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\EntityFramework.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\EntityFramework.SqlServer.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\Google.Protobuf.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.Streams.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\K4os.Hash.xxHash.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\MySql.Data.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\MySql.Data.EntityFramework.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\Newtonsoft.Json.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\Renci.SshNet.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\Swashbuckle.Core.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\System.Buffers.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\System.Memory.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\System.Net.Http.Formatting.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\System.Numerics.Vectors.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.WebHost.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\Ubiety.Dns.Core.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\WebActivatorEx.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\Zstandard.Net.dll
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\EntityFramework.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\EntityFramework.SqlServer.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\Google.Protobuf.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.Streams.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\K4os.Hash.xxHash.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\MySql.Data.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\MySql.Data.EntityFramework.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\Renci.SshNet.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\System.Buffers.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\System.Memory.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\System.Numerics.Vectors.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\Newtonsoft.Json.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\System.Net.Http.Formatting.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.WebHost.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.csproj.CopyComplete
+G:\Saját meghajtó\Backendgyak\UserManagerAPI\UserManagerAPI\bin\roslyn\desktop.ini
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\UserManagerAPI.dll.config
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\UserManagerAPI.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\UserManagerAPI.pdb
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\csc.exe
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\csc.exe.config
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\csc.rsp
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\csi.exe
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\csi.exe.config
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\csi.rsp
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.AppContext.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Console.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\vbc.exe
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\vbc.exe.config
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\vbc.rsp
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\BouncyCastle.Crypto.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\EntityFramework.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\Google.Protobuf.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\K4os.Hash.xxHash.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\MySql.Data.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\MySql.Data.EntityFramework.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\Newtonsoft.Json.Bson.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\Newtonsoft.Json.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\Renci.SshNet.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\Swashbuckle.Core.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Buffers.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Memory.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Numerics.Vectors.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Web.Cors.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.Cors.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\Ubiety.Dns.Core.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\WebActivatorEx.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\Zstandard.Net.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\EntityFramework.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\Google.Protobuf.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\K4os.Hash.xxHash.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\MySql.Data.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\MySql.Data.EntityFramework.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\Newtonsoft.Json.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\Newtonsoft.Json.Bson.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\Renci.SshNet.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Buffers.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Memory.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Numerics.Vectors.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.Cors.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.csproj.AssemblyReference.cache
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\obj\Debug\UserMana.4C618D3A.Up2Date
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.dll
+C:\Users\isaac\Documents\React\login\UserManagerAPI\UserManagerAPI\obj\Debug\UserManagerAPI.pdb
